@@ -14,7 +14,7 @@ This project is designed to help you practice building React components and pass
 
 ## Submission
 
-Submit a **quick** screen recording where you walk us through each custom component you made, showing the `.jsx` file and the `.css` file of each one as well as demonstrating what it looks like in `localhost`. I  
+Submit a **quick** screen recording where you walk us through each custom component you made, showing the `.jsx` file and the `.css` file of each one as well as demonstrating what it looks like in `localhost`. I recommend using the record function on Zoom for this, but feel free to do whatever works best for you.
 
 ## Example Props Ideas:
 - Text content and background color for a card.
