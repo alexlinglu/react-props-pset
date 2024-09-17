@@ -4,7 +4,7 @@
 This project is designed to help you practice building React components and passing props. You will create a simple app with two custom components that each accept at least 2 props.
 
 ## Instructions
-1. Open up your  favorite code editor (e.g., VSCode), and clone this repository: `git clone URL`
+1. Open up your  favorite code editor (e.g., VSCode), and clone this repository: `git clone https://github.com/chaser164/react-props-pset`
 2. From the VSCode command line, in the root directory of the cloned repository, call `npm install` to ensure all dependencies are ready to go.
 3. Call `npm run dev` and then navigate to the displayed localhost URL to see what this project looks like so far.
 4. Using `CustomButton.jsx` and `CustomButton.css` as inspiration, make 3 additional custom components (i.e. 3 additional `.jsx` files and 3 additional `.css` files). 
