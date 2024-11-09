@@ -1,0 +1,8 @@
+.custom-textarea {
+    padding: 10px 20px;
+    margin: 10px;
+    color: rgb(24, 47, 121);
+    resize: none;
+    width: 500px;
+    height: 200px;
+  }

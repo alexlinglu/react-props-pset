@@ -1,0 +1,8 @@
+.custom-list {
+    padding: 10px;
+    list-style-position: inside;
+    color: rgb(90, 90, 100);
+  }
+.custom-list-item {
+    text-align: center;
+}

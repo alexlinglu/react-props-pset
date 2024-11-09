@@ -1,0 +1,15 @@
+.custom-nav {
+    padding: 10px 20px;
+    list-style-type: none;
+  }
+.custom-link-item {
+    display: inline;
+    padding: 10px;
+    background-color: rgb(19, 52, 99);
+}
+a:link {
+    color: white
+}
+a:visited {
+    color: rgb(237, 219, 216)
+}
